@@ -38,4 +38,4 @@ In the project directory, you can add environment variable for development, stag
 
 ## Linters & Advisor
 
-We are using all linter for styles (css, scss, js, commits etc.) as well as advisor for best developer experience and a focus on performance and best practices.
+We are using all linters for styles (css, scss, js, commits etc.) as well as advisor for best developer experience with focus on performance and best practices.
