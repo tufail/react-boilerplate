@@ -1,10 +1,13 @@
-# Getting Started with Create React App
+# Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+### `npm install`
+
+Install the dependencies in the local node_modules folder.
 
 ### `npm run dev`
 
@@ -38,4 +41,4 @@ In the project directory, you can add environment variable for development, stag
 
 ## Linters & Advisor
 
-We are using all linter for styles (css, scss, js, commits etc.) as well as advisor for best developer experience and a focus on performance and best practices.
+We are using all linters for styles (css, scss, js, commits etc.) as well as advisor for best developer experience with focus on performance and best practices.
